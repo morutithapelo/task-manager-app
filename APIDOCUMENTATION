@@ -1,0 +1,10 @@
+   # API Documentation
+   # Authentication
+   POST /api/user/register
+   POST /api/user/login
+
+   # Tasks
+   GET /api/tasks
+   POST /api/tasks
+   PUT /api/tasks/{id}
+   DELETE /api/tasks/{id}

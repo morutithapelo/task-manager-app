@@ -1,0 +1,12 @@
+C:\Users\oufap\source\repos\TaskManager.API\TaskManager.API.ServiceDefaults\bin\Debug\net8.0\TaskManager.API.ServiceDefaults.deps.json
+C:\Users\oufap\source\repos\TaskManager.API\TaskManager.API.ServiceDefaults\bin\Debug\net8.0\TaskManager.API.ServiceDefaults.dll
+C:\Users\oufap\source\repos\TaskManager.API\TaskManager.API.ServiceDefaults\bin\Debug\net8.0\TaskManager.API.ServiceDefaults.pdb
+C:\Users\oufap\source\repos\TaskManager.API\TaskManager.API.ServiceDefaults\obj\Debug\net8.0\TaskManager.API.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\oufap\source\repos\TaskManager.API\TaskManager.API.ServiceDefaults\obj\Debug\net8.0\TaskManager.API.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oufap\source\repos\TaskManager.API\TaskManager.API.ServiceDefaults\obj\Debug\net8.0\TaskManager.API.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\oufap\source\repos\TaskManager.API\TaskManager.API.ServiceDefaults\obj\Debug\net8.0\TaskManager.API.ServiceDefaults.AssemblyInfo.cs
+C:\Users\oufap\source\repos\TaskManager.API\TaskManager.API.ServiceDefaults\obj\Debug\net8.0\TaskManager.API.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\oufap\source\repos\TaskManager.API\TaskManager.API.ServiceDefaults\obj\Debug\net8.0\TaskManager.API.ServiceDefaults.dll
+C:\Users\oufap\source\repos\TaskManager.API\TaskManager.API.ServiceDefaults\obj\Debug\net8.0\refint\TaskManager.API.ServiceDefaults.dll
+C:\Users\oufap\source\repos\TaskManager.API\TaskManager.API.ServiceDefaults\obj\Debug\net8.0\TaskManager.API.ServiceDefaults.pdb
+C:\Users\oufap\source\repos\TaskManager.API\TaskManager.API.ServiceDefaults\obj\Debug\net8.0\ref\TaskManager.API.ServiceDefaults.dll
